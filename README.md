@@ -19,7 +19,7 @@
 ## 🚀 Installation
 
 ```
-$ git clone https://github.com//viniciuspasquantonio/pokedex-reac.git
+$ git clone https://github.com/viniciuspasquantonio/pokedex-reac.git
 $ cd react-todolist
 $ npm install
 $ npm start
